@@ -1,0 +1,13 @@
+{
+  "name": "wickwood",
+  "version": "1.0.0",
+  "description": "An AI illustrated storybook studio. Writes, illustrates, and narrates stories using GMI Cloud.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
